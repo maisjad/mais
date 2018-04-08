@@ -7,7 +7,7 @@
 <pathelement location="./mylib/junit.jar"/>
 <pathelement location="./mylib/org.hamcrest.core_1.3.0.v201303031735.jar"/>
 <pathelement location="./mylib/selenium-server-standalone-3.8.1.jar"/>
-<pathelement location="./mylib/chromedriver.exe"/>
+
 </path>
 <target name="compile">
 <mkdir dir="${result.javaclasses.dir}"/>
